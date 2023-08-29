@@ -6,4 +6,7 @@
 
 **感谢您的关注！💐**
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qiyuan-chen&layout=compact)
+
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=qiyuan-chen)
