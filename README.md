@@ -4,7 +4,7 @@
 
 ## 📄 Bio
 
-My name is QiyuanChen (陈启源). I am currently a senior undergraduate student majoring in Statistics at the School of Mathematics and Statistics, Central China Normal University. 
+My name is QiyuanChen (陈启源) and I am currently a senior undergraduate student majoring in Statistics at the School of Mathematics and Statistics, Central China Normal University. 
 
 Starting from the fall of 2024, I will be pursuing my Ph.D. at the College of Computer Science and Technology, Zhejiang University, co-supervised by [Prof. Jian Wu](https://person.zju.edu.cn/0004274) and [Dr. Xuming Hu](https://xuminghu.github.io/).
 
