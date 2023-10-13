@@ -21,7 +21,7 @@ My current research interests primarily include: **<span style="color:#8ECFC9">I
 
 ## 🏸 More Information
 
-In my free time, I really enjoy developing interesting websites and tools using [Java](https://www.java.com/) (sometimes Python with [Flask](https://flask.net.cn/)) and [Vue.js](https://cn.vuejs.org/). You can check out my projects on my [GitHub](https://github.com/qiyuan-chen) if you're interested. 
+In my free time, I really enjoy developing interesting websites and tools using Java (sometimes Python with Flask) and Vue.js. You can check out my projects on my [GitHub](https://github.com/qiyuan-chen) if you're interested. 
 
 I also enjoy digital devices (mechanical keyboards/NAS, etc.), badminton and chess in my spare time. 
 
