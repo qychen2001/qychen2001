@@ -27,3 +27,7 @@ I also enjoy digital devices (mechanical keyboards/NAS, etc.), badminton and che
 
 
 **For more information, please visit my [homepage](https://qiyuan-chen.github.io/).**
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qiyuan-chen&hide=tex,r)](https://github.com/anuraghazra/github-readme-stats)
+
+![Qiyuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=qiyuan-chen&show_icons=true)
