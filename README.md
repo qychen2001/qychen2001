@@ -10,14 +10,15 @@ Starting from the fall of 2024, I will be pursuing my Ph.D. at the College of Co
 
 ## 💻 Research Interests
 
-My current research interests primarily include: **<span style="color:#8ECFC9">Information Retrieval (IR)</span>** and **<span style="color:#82B0D2">Natural Language Processing (NLP)</span>** based on LLMs; **<span style="color:#FA7F6F">Computer Vision (CV)</span>** and **<span style="color:#FFBE7A">Multi-Modality (MM)</span>**, and their applications in medicine. Specifically,
+My current research interests primarily include: **<span style="color:#8ECFC9">Information Retrieval (IR)</span>** and **<span style="color:#82B0D2">Natural Language Processing (NLP)</span>** based on LLMs. Also I really interested in theory and methods in **<span style="color:#FA7F6F">Semi-Supervised Learning (SS)</span>**. Specifically,
 
-* Automated fact-checking (especially fact-checking large language models)
-* Low-resource and open-world information extraction
-* Language driven semantic segmentation in medicine
-* Theory and methods in semi-supervised learning
+* Automated Fact-Checking (especially fact-checking in LLMs)
+* Retrieval Augmented Generation (RAG) in LLMs and its applications
+* Sample Selection problem in Semi-Supervised Learning Scenario
+* Semi-Supervised Object Detection (SSOD)
 
 **Feel free to contact me if your research lies within these or related areas!**
+
 
 ## 🏸 More Information
 
