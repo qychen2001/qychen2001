@@ -6,16 +6,16 @@
 
 My name is QiyuanChen (陈启源) and I am currently a senior undergraduate student majoring in Statistics at the School of Mathematics and Statistics, Central China Normal University. 
 
-Starting from the fall of 2024, I will be pursuing my Ph.D. at the College of Computer Science and Technology, Zhejiang University, co-supervised by [Prof. Jian Wu](https://person.zju.edu.cn/0004274) and [Dr. Xuming Hu](https://xuminghu.github.io/).
+Starting from the fall of 2024, I will be pursuing my Ph.D. at the College of Computer Science and Technology, Zhejiang University, co-supervised by [Prof. Jian Wu](https://person.zju.edu.cn/0004274) and [Dr. Jintai Chen](https://whatashot.github.io/).
 
 ## 💻 Research Interests
 
-My current research interests primarily include: **<span style="color:#8ECFC9">Information Retrieval (IR)</span>** and **<span style="color:#82B0D2">Natural Language Processing (NLP)</span>** based on LLMs. Also I really interested in theory and methods in **<span style="color:#FA7F6F">Semi-Supervised Learning (SS)</span>**. Specifically,
+My current research interests primarily include: **<span style="color:#8ECFC9">Tabular Data Prediction (TD)</span>** and **<span style="color:#82B0D2">Semi-Supervised Learning (SS)</span>**. Also I really interested in **<span style="color:#FA7F6F">Natural Language Processing (NLP)</span>** based on LLMs. Specifically,
 
-* Automated Fact-Checking (especially fact-checking in LLMs)
-* Retrieval Augmented Generation (RAG) in LLMs and its applications
-* Sample Selection problem in Semi-Supervised Learning Scenario
-* Semi-Supervised Object Detection (SSOD)
+* Neural Networks for Tabular Data
+* Theory and Methods in Semi-Supervised Learning
+* Retrieval Augmented Language Models (RALMs)
+* Applications of AI (especially LLMs) in Finance
 
 **Feel free to contact me if your research lies within these or related areas!**
 
