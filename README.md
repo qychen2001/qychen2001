@@ -2,6 +2,8 @@
 
 **Aspiring to be an outstanding researcher and a proficient full-stack engineer.**
 
+**Seeking passionate full stack developers at Zhejiang University! Do something interesting together.**
+
 ## 📄 Bio
 
 My name is Qiyuan Chen (陈启源) and I am currently a Ph.D. student at the College of Computer Science and Technology, Zhejiang University, co-supervised by [Prof. Jian Wu](https://person.zju.edu.cn/0004274) and [Dr. Jintai Chen](https://whatashot.github.io/). Before that, I got my B.Sc. degree from the School of Mathematics and Statistics, Central China Normal University, under the guidance of [Prof. Bo Li](http://maths.ccnu.edu.cn/info/1040/18436.htm) and [Dr. Haitong Yang](http://cs.ccnu.edu.cn/info/1158/2237.htm).
