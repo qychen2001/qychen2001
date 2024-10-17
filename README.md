@@ -10,7 +10,7 @@ My name is Qiyuan Chen (陈启源) and I am currently a first-year Ph.D. student
 
 Since June 2023, I’ve been working as a full stack and AI research intern at WeDoctor AI Lab, under the mentorship of Shengyang Kong. I am also a member of the Zhejiang Key Laboratory of Medical Imaging Artificial Intelligence.
 
-My current research interests primarily include:** Machine Learning (ML)**, **Natural Language Processing (NLP)** and **Multi Modal Learning (MM)**. Specifically,
+My current research interests primarily include: **Machine Learning (ML)**, **Natural Language Processing (NLP)** and **Multi Modal Learning (MM)**. Specifically,
 
 - Natural Language Processing in Low Resource Scenarios
 - Interpretability and Optimization of Large Language Models
