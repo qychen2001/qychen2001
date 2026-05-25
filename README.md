@@ -1,28 +1,38 @@
-# 👋 Welcome to my Github!
+# 👋 Hi, I'm Qiyuan Chen (陈启源)
 
-**Aspiring to be an outstanding researcher and a proficient full-stack engineer.**
+🎓 **Ph.D. student in Artificial Intelligence** @ Zhejiang University, advised by Prof. Jian Wu.  
+🔬 **Research Interests:** Machine Learning & Natural Language Processing, focusing on  
+ • Semi‑Supervised / Long‑Tailed Learning  
+ • Tabular Data Prediction & Synthesis  
+ • Preference Optimization for LLMs/VLMs  
 
-**Seeking passionate full stack developers at Zhejiang University! Do something interesting together.**
+---
 
-## 📄 Bio
+## 📝 Selected First-Author Papers
 
-My name is Qiyuan Chen (陈启源) and I am currently a first-year Ph.D. student at the College of Computer Science and Technology, Zhejiang University, co-supervised by [Prof. Jian Wu](https://person.zju.edu.cn/0004274) and [Dr. Jintai Chen](https://whatashot.github.io/). Before that, I got my B.Sc. degree from the School of Mathematics and Statistics, Central China Normal University, under the guidance of [Prof. Bo Li](http://maths.ccnu.edu.cn/info/1040/18436.htm) and [Dr. Haitong Yang](http://cs.ccnu.edu.cn/info/1158/2237.htm).
+- [**ACL 2026**] [Learning What Matters: Dynamic Dimension Selection and Aggregation for Interpretable Vision-Language Reward Modeling](https://arxiv.org/abs/2604.05445)  
+  *Qiyuan Chen, Hongsen Huang, Jiahe Chen, et al.*
 
-Since June 2023, I've been working as a full stack and AI research intern at WeDoctor AI Lab, under the mentorship of [Shengyang Kong](https://github.com/xxweimei). I am also a member of the Zhejiang Key Laboratory of Medical Imaging Artificial Intelligence.
+- [**EMNLP 2025**] [Icon²: Aligning Large Language Models Using Self-Synthetic Preference Data via Inherent Regulation](https://arxiv.org/abs/2509.05605)  
+  *Qiyuan Chen, Hongsen Huang, Qian Shao, et al.*
 
-My current research interests primarily include: **<span style="color:#8ECFC9">Machine Learning (ML)</span>**, **<span style="color:#82B0D2">Natural Language Processing (NLP)</span>** and **<span style="color:#FA7F6F">Multi Modal Learning (MM)</span>**. Specifically,
+---
 
-- Natural Language Processing in Low Resource Scenarios
-- Interpretability and Optimization of Large Language Models
-- Statistical Methods for Deep Learning and Tabular Data Prediction
-- Multi Modal Learning and its Applications in Medical
-  
-**Feel free to contact me if your research lies within these or related areas!**
+## 💻 Featured Projects
 
-And I work really closely with [Qian Shao](https://abeier87.github.io/), [Hongsen Huang](https://github.com/SirlyDreamer) and [Zepeng Li](https://lzzppp.github.io/).
+- [**Luotuo**](https://github.com/LC1332/Luotuo-Chinese-LLM)  
+  [![Stars](https://img.shields.io/github/stars/LC1332/Luotuo-Chinese-LLM?style=social)](https://github.com/LC1332/Luotuo-Chinese-LLM)  
+  An instruction‑following Chinese LLM (LoRA‑tuned LLaMA) that attracted **3.6k+ stars**. Includes sub‑projects like LuotuoEmbedding and LuotuoQA.
 
-In my spare time, I really enjoy developing interesting websites and tools using FastAPI and Vue.js, and I'm also interested in DevOPS (CI/CD, container, etc.). If you're interested, check out my projects on my [GitHub](https://github.com/qychen2001).
+- [**Poco – Your Pocket Coworker**](https://github.com/poco-ai/poco-claw)  
+  [![Stars](https://img.shields.io/github/stars/poco-ai/poco-claw?style=social)](https://github.com/poco-ai/poco-claw)  
+  A polished alternative to OpenClaw with a modern Web UI, built‑in IM support, and a sandboxed runtime. **1.3k+ stars** & multiple hackathon awards.
 
-I also enjoy digital devices (mechanical keyboards, NAS, etc.), badminton, running and chess in my spare time.
+---
 
-**For more information, Please visit my [Homepage](https://qychen2001.github.io/).**
+## 📫 Let’s Connect
+
+- 🌐 Personal homepage: [qychen2001.github.io](https://qychen2001.github.io)  
+- 💬 Feel free to reach out for collaborations in ML/NLP or fun side projects!
+
+> *“I love full‑stack hacking, hackathons, and building things that people enjoy using.”*
